@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "link-stats.h": "c",
+        "contiki-default-conf.h": "c",
+        "contiki.h": "c",
+        "rtimer.h": "c",
+        "memb.h": "c",
+        "cstdlib": "c",
+        "climits": "c",
+        "cmath": "c",
+        "cstdarg": "c",
+        "cstdio": "c",
+        "type_traits": "c",
+        "limits": "c",
+        "*.tcc": "c",
+        "cinttypes": "c",
+        "cstdbool": "c",
+        "cstdint": "c",
+        "typeinfo": "c",
+        "random.h": "c"
+    },
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: LLVM, IndentWidth: 2, ColumnLimit: 0}"
+}
