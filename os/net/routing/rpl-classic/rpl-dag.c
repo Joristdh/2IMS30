@@ -91,7 +91,7 @@ rpl_instance_t *default_instance;
 /*
  * Instance variables for the attack
  */
-#define PARENT_SWITCH_THRESHOLD 96
+#define PARENT_SWITCH_THRESHOLD 112
 rpl_rank_t lowest_nbr_rank;
 
 /*---------------------------------------------------------------------------*/
